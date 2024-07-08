@@ -12,7 +12,7 @@ A Traffic Analyzer is a machine-learning model that predicts the traffic in a ju
 <h2>Features</h2>
 <ul>
   <li>A regression-based task.</li>
-  <li>Traffic Prediction using the RandomForestRegressor algorithm.</li>
+  <li>Traffic Prediction using the Random forest regression algorithm.</li>
 </ul>
 <h2>File Structure</h2>
 <ul>
