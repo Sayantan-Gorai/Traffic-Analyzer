@@ -16,6 +16,6 @@ A Traffic Analyzer is a machine-learning model that predicts the traffic in a ju
 </ul>
 <h2>File Structure</h2>
 <ul>
-  <li>Traffic Analysis.ipynb: The main python script.</li>
-  <li>Traffic_data.csv: The real dataset in csv format.</li>
+  <li>traffic_analysis.ipynb: The main python script.</li>
+  <li>traffic_data.csv: The real dataset in csv format.</li>
 </ul>
